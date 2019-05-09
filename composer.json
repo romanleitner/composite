@@ -1,0 +1,22 @@
+{
+    "name": "roman/composite",
+    "description": "Composite design pattern example",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Leitner",
+            "email": "roman.leitner@eset.sk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ESET\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "beberlei/assert": "^3.2",
+        "moneyphp/money": "^3.2"
+    }
+}
