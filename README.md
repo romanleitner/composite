@@ -1,4 +1,4 @@
-# composite
+## composite
 Example of design patter Composite
 
 What is Composite Design Pattern?
